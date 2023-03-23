@@ -21,6 +21,7 @@ npm i cluster
 npm i cloudflare-bypasser
 sudo pip install asciimatics
 sudo pip install pystyle
+sudo pip install integer
 sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
