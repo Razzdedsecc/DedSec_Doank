@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "fake-useragent": "^1.0.1",
+    "random-ua": "^0.0.6",
+    "requests": "^0.3.0",
+    "sync-request": "^6.1.0"
+  }
+}
