@@ -1,4 +1,4 @@
-apt upate && apt upgrade
+sudo apt-get upate && apt-get upgrade -y
 sudo apt-get install git -y
 sudo apt-get install golang -y
 sudo apt-get install perl -y
@@ -19,10 +19,10 @@ npm i hcaptcha-solver
 npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
-pip install asciimatics
-pip install pystyle
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-apt-get install ./google-chrome-stable_current_amd64.deb
+sudo pip install asciimatics
+sudo pip install pystyle
+sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
 python3 main.py
