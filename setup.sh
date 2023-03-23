@@ -1,4 +1,4 @@
-sudo apt-get upate && apt-get upgrade -y
+sudo apt-get update && apt-get upgrade -y
 sudo apt-get install git -y
 sudo apt-get install golang -y
 sudo apt-get install perl -y
