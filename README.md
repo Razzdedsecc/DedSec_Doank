@@ -56,4 +56,5 @@ remember: you are responsible for the attacks since this tool was created for ed
 ```sh
 DEDSec COmmUniTy 
 bY Razz#124Z
+Update to >>> 1.0.3 Beta
 ```
