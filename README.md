@@ -40,7 +40,7 @@ How to use:
 - Using vps with high speed will be stronger
 
 #Setup Wajib
-- $ python3 installer.py
+- $ python3 installer.py (Recommended)
 - $ bash setup.sh
 ```
 
